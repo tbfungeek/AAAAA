@@ -1,0 +1,22 @@
+{
+  "name": "AAAAA",
+  "version": "0.1.0",
+  "summary": "A short description of AAAAA.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tbfungeek/AAAAA",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tbfungeek": "tbfungeek@163.com"
+  },
+  "source": {
+    "git": "https://github.com/tbfungeek/AAAAA.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "AAAAA/Classes/**/*"
+}

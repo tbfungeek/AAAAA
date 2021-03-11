@@ -8,6 +8,8 @@
 
 #import "AAAAViewController.h"
 
+#import "AAAA.h"
+
 @interface AAAAViewController ()
 
 @end
@@ -17,6 +19,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    [AAAA processStartTime];
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
